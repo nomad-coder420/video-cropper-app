@@ -76,6 +76,7 @@ const App = () => {
     }
   };
 
+
   const handleShowCropper = (showCropper) => {
     setShowCropper(showCropper);
 
