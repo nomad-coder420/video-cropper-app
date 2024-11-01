@@ -83,24 +83,6 @@ const PreviewSessionTab = () => {
     return () => clearInterval(intervalId);
   }, [jsonData, currentDataIndex]);
 
-  useEffect(() => {
-    if (
-      previewVideoRef.current &&
-      jsonData[currentDataIndex] &&
-      isPlayerReady
-    ) {
-      const data = jsonData[currentDataIndex];
-      previewVideoRef.current.seekTo(data.timestamp, "seconds");
-      setVideoState({
-        isPlaying: data.isPlaying,
-        playbackSpeed: data.playbackSpeed,
-        volume: data.volume,
-        cropPosition: data.coordinates,
-        aspectRatio: data.aspectRatio,
-      });
-    }
-  }, [currentDataIndex, jsonData, isPlayerReady]);
-
   const handleFileUpload = (event) => {
     const file = event.target.files[0];
 
