@@ -81,7 +81,7 @@ const PreviewSessionTab = () => {
     }, 100);
 
     return () => clearInterval(intervalId);
-  }, [jsonData, currentDataIndex]);
+  }, [jsonData, currentDataIndex, isPlayerReady]);
 
   const handleFileUpload = (event) => {
     const file = event.target.files[0];
