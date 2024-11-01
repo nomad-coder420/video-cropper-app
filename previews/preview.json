@@ -1,0 +1,970 @@
+[
+  {
+    "timestamp": 11.157243916,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 182, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 11.556334,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 182, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 11.767056,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 183, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 11.864841,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 191, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 11.963132,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 196, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 12.061871,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 198, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 12.170592,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 203, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 12.268748,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 207, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 12.36816,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 209, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 12.466237,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 211, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 12.574031,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 215, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 12.674904,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 217, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 12.773259,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 217, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 12.872578,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 214, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 12.969291,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 203, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 13.078586,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 195, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 13.177837,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 186, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 13.27603,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 178, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 13.372898,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 172, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 13.484171000000002,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 167, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 13.582513,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 159, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 13.682465999999998,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 150, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 13.778648,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 141, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 13.876123,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 134, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 13.986453,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 129, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 14.083739,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 123, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 14.181511,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 119, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 14.281029,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 118, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 14.390760999999998,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 118, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 14.488181,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 121, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 14.587315,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 126, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 14.685367,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 129, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 14.794266,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 132, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 14.892341999999998,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 136, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 14.99196,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 142, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 15.089756999999999,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 145, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 15.198567,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 149, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 15.297251999999999,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 152, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 15.394549,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 156, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 15.490847,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 162, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 15.589736,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 166, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 15.698850999999998,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 170, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 15.797493999999999,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 176, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 15.894688,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 182, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 15.993275999999998,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 189, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 16.104291,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 193, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 16.202507,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 197, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 16.300064,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 201, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 16.398995,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 204, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 16.496506,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 209, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 16.605327,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 213, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 16.704688,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 216, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 16.803857,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 219, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 16.902609,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 221, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 17.011292,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 224, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 17.10971,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 227, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 17.20874,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 229, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 17.307342,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 234, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 17.415997,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 238, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 17.514612,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 245, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 17.612391,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 252, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 17.712328,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 262, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 17.820208,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 270, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 17.918573,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 276, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 18.017821,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 282, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 18.113508,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 289, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 18.212905,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 293, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 18.322909,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 298, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 18.422399,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 304, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 18.519944,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 311, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 18.618246,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 315, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 18.729257,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 318, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 18.826866,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 321, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 18.923557,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 323, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 19.022456,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 326, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 19.120946,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 329, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 19.229569,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 332, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 19.328992,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 338, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 19.42749,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 344, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 19.526589,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 350, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 19.634934,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 354, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 19.732549,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 357, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 20.140498,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 357, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 20.445619,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 357, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 20.544341,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 355, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 20.643548,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 345, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 20.742222,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 340, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 20.838649,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 336, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 20.948401,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 330, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 21.047412,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 327, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 21.144297,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 326, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 21.242348,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 325, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 21.353572,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 322, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 21.45131,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 318, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 21.549306,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 317, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 21.647957,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 316, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 21.749612,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 316, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 21.858148,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 315, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 21.955453,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 314, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 22.053563,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 312, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 22.152127,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 309, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 22.260529,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 307, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 22.359165,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 304, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 22.457979,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 301, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 22.55569,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 299, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 22.665022,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 298, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 22.764544,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 297, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 22.862766,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 295, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 22.9622,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 292, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 23.069727,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 289, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 23.169054,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 285, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 23.267609,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 280, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 23.366189,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 276, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 23.463072,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 271, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 23.573341,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 265, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 23.672709,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 260, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 23.769674,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 255, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 23.867885,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 251, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 23.978019,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 247, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 24.076344,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 244, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  },
+  {
+    "timestamp": 24.172668,
+    "volume": 1,
+    "playbackSpeed": 1,
+    "coordinates": { "x": 242, "y": 0 },
+    "isPlaying": true,
+    "aspectRatio": 0.5625
+  }
+]
