@@ -29,7 +29,6 @@ const VideoPlayer = ({
 
   const handleSeekChange = (e) => {
     const newValue = parseFloat(e.target.value);
-    // setVideoState({ ...videoState, played: newValue });
     setPlayed(newValue);
     videoRef.current.seekTo(newValue);
     if (previewVideoRef.current) {
@@ -38,7 +37,6 @@ const VideoPlayer = ({
   };
 
   const handleProgress = (state) => {
-    // setVideoState({ ...videoState, played: state.played });
     setPlayed(state.played);
   };
 

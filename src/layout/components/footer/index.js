@@ -1,8 +1,6 @@
 import classes from "./styles.module.css";
 
 const Footer = ({ showCropper, setShowCropper, previewResult }) => {
-  console.log(previewResult);
-
   const downloadPreviewResult = () => {
     const blob = new Blob([JSON.stringify(previewResult)], {
       type: "application/json",
