@@ -43,7 +43,11 @@ const GenerateSessionTab = () => {
 
     const timestamp = played * newState.duration;
 
-    if (showCropper && newState.isPlaying && isValidNewPreview(timestamp)) {
+    if (
+      showCropper &&
+      (newState.isPlaying || videoState.isPlaying) &&
+      isValidNewPreview(timestamp)
+    ) {
       setPreviewResult([
         ...previewResult,
         {

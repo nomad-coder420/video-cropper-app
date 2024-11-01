@@ -57,7 +57,7 @@ const PreviewSessionTab = () => {
         (data) => data.timestamp > currentTime
       );
 
-      if (nextDataIndex === -1 || nextDataIndex >= jsonData.length - 1) {
+      if (nextDataIndex === -1 || nextDataIndex >= jsonData.length) {
         setVideoState({
           ...videoState,
           isPlaying: false,
@@ -71,7 +71,7 @@ const PreviewSessionTab = () => {
         const data = jsonData[nextDataIndex];
 
         setVideoState({
-          isPlaying: data.isPlaying,
+          ...videoState,
           playbackSpeed: data.playbackSpeed,
           volume: data.volume,
           cropPosition: data.coordinates,
