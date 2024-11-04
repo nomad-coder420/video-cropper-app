@@ -134,10 +134,11 @@ const PreviewSessionTab = () => {
               height={previewHeight}
               style={{
                 position: "absolute",
-                left:
-                  (-videoState.cropPosition.x /
-                    videoState.cropPosition.height) *
-                  previewHeight,
+                left: videoState.cropPosition.height
+                  ? (-videoState.cropPosition.x /
+                      videoState.cropPosition.height) *
+                    previewHeight
+                  : -videoState.cropPosition.x,
               }}
             />
           </div>
