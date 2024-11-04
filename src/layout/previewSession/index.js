@@ -13,7 +13,7 @@ const PreviewSessionTab = () => {
     isPlaying: false,
     playbackSpeed: 1,
     volume: 1,
-    cropPosition: { x: 0, y: 0 },
+    cropPosition: { x: 0, y: 0, width: 0, height: 0 },
     aspectRatio: 9 / 16,
   });
   const [isPlayerReady, setIsPlayerReady] = useState(false);
@@ -134,7 +134,10 @@ const PreviewSessionTab = () => {
               height={previewHeight}
               style={{
                 position: "absolute",
-                left: -videoState.cropPosition.x,
+                left:
+                  (-videoState.cropPosition.x /
+                    videoState.cropPosition.height) *
+                  previewHeight,
               }}
             />
           </div>

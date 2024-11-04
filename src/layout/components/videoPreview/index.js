@@ -4,22 +4,17 @@ import videoPlayerImage from "../../../assets/images/video-player.png";
 
 const VideoPreview = ({
   videoplayback,
-  videoRef,
   previewVideoRef,
   videoState,
   aspectRatio,
   cropperPosition,
   showCropper,
 }) => {
-  if (!videoRef.current) {
-    return null;
-  }
-
   const previewHeight = 500;
   const previewWidth = previewHeight * aspectRatio;
 
   const cropperXOffset =
-    (cropperPosition.x / videoRef.current.wrapper.clientHeight) * previewHeight;
+    (cropperPosition.x / cropperPosition.height) * previewHeight;
 
   return (
     <div className={classes.videoPreviewContainer}>

@@ -44,7 +44,12 @@ const VideoPlayer = ({
     setVideoState({ ...videoState, volume: parseFloat(e.target.value) });
 
   const handleCropperPositionChange = (newPosition) => {
-    setCropperPosition(newPosition, videoState);
+    const cropperPosition = {
+      ...newPosition,
+      width: videoRef.current.wrapper.clientWidth,
+      height: videoRef.current.wrapper.clientHeight,
+    };
+    setCropperPosition(cropperPosition, videoState);
   };
 
   return (

@@ -124,7 +124,6 @@ const GenerateSessionTab = () => {
         <div className={classes.videoPreviewContainer}>
           <VideoPreview
             videoplayback={videoplayback}
-            videoRef={videoRef}
             previewVideoRef={previewVideoRef}
             videoState={videoState}
             aspectRatio={cropperAspectRatio.value}
