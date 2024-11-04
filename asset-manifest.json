@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/video-cropper-app/static/css/main.b15effe3.css",
-    "main.js": "/video-cropper-app/static/js/main.7b06a4ff.js",
+    "main.js": "/video-cropper-app/static/js/main.52f863a4.js",
     "static/js/453.2164426c.chunk.js": "/video-cropper-app/static/js/453.2164426c.chunk.js",
     "reactPlayerYouTube.js": "/video-cropper-app/static/js/reactPlayerYouTube.d9804cfa.chunk.js",
     "reactPlayerSoundCloud.js": "/video-cropper-app/static/js/reactPlayerSoundCloud.75d43055.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/videoplayback.mp4": "/video-cropper-app/static/media/videoplayback.e7adfada56f64af4b891.mp4",
     "index.html": "/video-cropper-app/index.html",
     "main.b15effe3.css.map": "/video-cropper-app/static/css/main.b15effe3.css.map",
-    "main.7b06a4ff.js.map": "/video-cropper-app/static/js/main.7b06a4ff.js.map",
+    "main.52f863a4.js.map": "/video-cropper-app/static/js/main.52f863a4.js.map",
     "453.2164426c.chunk.js.map": "/video-cropper-app/static/js/453.2164426c.chunk.js.map",
     "reactPlayerYouTube.d9804cfa.chunk.js.map": "/video-cropper-app/static/js/reactPlayerYouTube.d9804cfa.chunk.js.map",
     "reactPlayerSoundCloud.75d43055.chunk.js.map": "/video-cropper-app/static/js/reactPlayerSoundCloud.75d43055.chunk.js.map",
@@ -39,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.b15effe3.css",
-    "static/js/main.7b06a4ff.js"
+    "static/js/main.52f863a4.js"
   ]
 }
